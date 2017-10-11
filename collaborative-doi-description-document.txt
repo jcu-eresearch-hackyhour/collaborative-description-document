@@ -22,7 +22,7 @@ collaborator: David Beitey
 
 contact: hackyhour@eresearch.jcu.edu.au
 
-doi: REPLACEME
+doi: 10.17605/OSF.IO/Z3XTS
 
 topic: software engineering
 
