@@ -1,42 +1,35 @@
--------------------------------------------------------------------------------
-COLLABORATIVE DESCRIPTION DOCUMENT
+COLLABORATOR DESCRIPTION DOCUMENT
 
-THIS DOCUMENT DESCRIBES THE ENTITY USING A COLLABORATIVE DOI.
+THIS DOCUMENT DESCRIBES YOUR COLLABORATOR
 
-IF USING COLLABORATIVE DOI BENEFITS YOUR RESEARCH, PLEASE CITE THE ORIGINAL IDEA
+IF INTERACTING WITH THE COLLABORATOR DESCRIBED BELOW BENEFITED YOUR RESEARCH, PLEASE CITE THEIR COLLABORATIVE DOI IN YOUR PUBLICATION TO CREDIT THEM
 
-LOCATED AT HTTPS://COLLABORATIVE.DOI.JCU.IO/CITE
--------------------------------------------------------------------------------
+Hacky Hour@James Cook University. (2017, October 11). Collaborative DOI. Retrieved from osf.io/27tkj
 
-name: JCU Hacky Hour
+MORE INFORMATION AT COLLABORATIVE.DOI.JCU.IO
 
+
+name: Hacky Hour @ JCU
+id: https://orcid.org/0000-0002-1385-2160
+contact: hackyhour@eresearch.jcu.edu.au
 description: Tech help for researchers at James Cook University by the eResearch Centre
 
+
 collaborator: Steven Vandervalk
-
 collaborator: Collin Storlie
-
 collaborator: Daniel Baird
-
 collaborator: David Beitey
 
-contact: hackyhour@eresearch.jcu.edu.au
-
-doi: 10.17605/OSF.IO/Z3XTS
 
 topic: software engineering
-
 topic: computer science
-
 topic: automation
-
 topic: data visulisation
-
 topic: Internet of Things
-
 topic: hardware
-
 topic: experimental design
-
 topic: information seeking
 
+
+doi: 10.17605/OSF.IO/Z3XTS 
+url : https://osf.io/z3xts/
